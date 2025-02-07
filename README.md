@@ -11,7 +11,7 @@ Using Kaggle dataset "https://www.kaggle.com/datasets/thedevastator/employee-att
 - Move analysis to **Power BI** for interactive visualizations.  
 - Explore **department-level** trends and deeper salary comparisons.  
 - Identify **actionable insights** for HR policy improvements.
-  G
+  
 **Planned Analysis in Power BI**
 - Financial Impact of Attrition: Estimating the cost of employee turnover based on salary data and industry benchmarks.
 - Department-Level Insights: Identifying which departments experience the highest attrition and potential causes.
