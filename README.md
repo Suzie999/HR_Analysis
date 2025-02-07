@@ -4,9 +4,15 @@ Using Kaggle dataset "https://www.kaggle.com/datasets/thedevastator/employee-att
 ## Key Findings (Python Analysis)  
 - **Gender & Attrition**: Women had lower satisfaction scores and longer promotion wait times.  
 - **Stock Options**: No major impact on attrition was found.  
-- **Overtime & Work-Life Balance**: Higher attrition among employees working overtime, especially in certain roles.  
+- **Overtime & Work-Life Balance**: Higher attrition among employees working overtime, especially in certain roles.
+- **Linear Regression Model**: To predict the future decline in the workforce over time over the next 30 years.  
 
 ## Next Steps  
 - Move analysis to **Power BI** for interactive visualizations.  
 - Explore **department-level** trends and deeper salary comparisons.  
-- Identify **actionable insights** for HR policy improvements.  
+- Identify **actionable insights** for HR policy improvements.
+  G
+**Planned Analysis in Power BI**
+- Financial Impact of Attrition: Estimating the cost of employee turnover based on salary data and industry benchmarks.
+- Department-Level Insights: Identifying which departments experience the highest attrition and potential causes.
+- Succession Planning & Workforce Gaps: Visualizing the workforce decline over time and its long-term impact.
