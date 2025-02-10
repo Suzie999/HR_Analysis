@@ -17,4 +17,4 @@ Using Kaggle dataset "https://www.kaggle.com/datasets/thedevastator/employee-att
 - Department-Level Insights: Identifying which departments experience the highest attrition and potential causes.
 - Succession Planning & Workforce Gaps: Visualizing the workforce decline over time and its long-term impact.
 
-****POWERBI DASHBOARD** https://1drv.ms/u/c/6b278ff2352397cc/EYQWBrrIxjFMi3CB-2tXPO4BLXdKI3vCykqD36En7-pi7A?e=d0mfl7
+****POWERBI DASHBOARD** [https://1drv.ms/u/c/6b278ff2352397cc/EYQWBrrIxjFMi3CB-2tXPO4BLXdKI3vCykqD36En7-pi7A?e=d0mfl7](https://adaptableprofyi-my.sharepoint.com/:u:/g/personal/suzie999_adaptablepro_fyi/EX1Ub09utnxCt2MP6gfd_igBZMS8NKNRV0VM6-cKutHFTA?e=TjUYAS) 
